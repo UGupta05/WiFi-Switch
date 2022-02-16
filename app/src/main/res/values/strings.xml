@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WiFi Switch</string>
+    <string name="switch_1">Switch 1</string>
+    <string name="switch_2">Switch 2</string>
+    <string name="switch_3">Switch 3</string>
+    <string name="set_time">Set time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="on">On</string>
+    <string name="default_text">default text</string>
+    <string name="turn_on">Turn on</string>
+    <string name="test_test_test">test_test_test</string>
+</resources>
